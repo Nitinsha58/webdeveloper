@@ -51,7 +51,7 @@ body, html{
 }
 /*Side Menu*/
 .sidenav{
-	background-image: url(/images/lgwhite.png);
+	background-image: url(images/lgwhite.png);
 	background-repeat: no-repeat;
 	display: none;
 	height: 100%;
